@@ -1,0 +1,16 @@
+{
+  "name": "metrique",
+  "version": "1.0.0",
+  "description": "Easy Google Analytics report running.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan Ziarek",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^9.0.0",
+    "md5": "^2.1.0",
+    "pad": "^1.0.0"
+  }
+}
